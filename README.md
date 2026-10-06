@@ -1,1 +1,0 @@
-# aikatsu-card-manager1
